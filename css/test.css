@@ -1,0 +1,13 @@
+body{
+background-color: aliceblue    
+}
+h1{
+    font-size: 50px;
+color:#FF3721;
+}
+h2{ 
+    font-size:40;
+ color:navy;
+}
+.big{font-size: 60px;}
+.uppercase{text-transform: uppercase;}
