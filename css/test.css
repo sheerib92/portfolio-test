@@ -4,10 +4,12 @@ background-color: black
 h1{
     font-size: 40px;
 color:#E5E5E5;
+    font-family: 'Poppins', sans-serif;
 }
 h2{ 
     font-size:34;
  color:white;
+    font-family: 'Poppins', sans-serif;
 }
 .big{font-size: 60px;}
 .uppercase{text-transform: uppercase;}
